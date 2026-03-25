@@ -1,0 +1,8 @@
+site_name: ReadyAPI API Docs Sample
+site_description: Task-based API documentation sample for ReadyAPI
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+  - Refactor REST APIs: refactor-rest-apis.md
